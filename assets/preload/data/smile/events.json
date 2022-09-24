@@ -1,0 +1,71 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": null,
+		"player1": "bf",
+		"player2": "pinkie",
+		"player3": null,
+		"events": [
+			[
+				11368.4210526316,
+				[
+					[
+						"Play Animation",
+						"howdy",
+						"dad"
+					]
+				]
+			],
+			[
+				13894.7368421053,
+				[
+					[
+						"Play Animation",
+						"howyadoin",
+						""
+					]
+				],
+				null,
+				"Hey!"
+			],
+			[
+				21473.6842105263,
+				[
+					[
+						"Hey!",
+						"bf",
+						"0.6s"
+					]
+				]
+			],
+			[
+				48631.5789473684,
+				[
+					[
+						"Play Animation",
+						"whatsup",
+						"dad"
+					]
+				]
+			],
+			[
+				56842.1052631579,
+				[
+					[
+						"Play Animation",
+						"howdy",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Smile"
+	}
+}
