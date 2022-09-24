@@ -1,0 +1,41 @@
+{
+	"storyName": "funkin is magic",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"smile",
+			"icon-pinkie",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"fun",
+			"icon-pinkie",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
